@@ -16,4 +16,5 @@
 
 ## Team
 
-- https://github.com.br/GustavooGomes
+- Vinicius Bornhofen https://github.com.br/VinioVnz
+- Gustavo Gomes https://github.com.br/GustavooGomes 
