@@ -13,8 +13,3 @@
    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-
-## Team
-
-- Vinicius Bornhofen https://github.com/VinioVnz
-- Gustavo Gomes https://github.com/GustavooGomes 
