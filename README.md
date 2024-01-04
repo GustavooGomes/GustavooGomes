@@ -6,4 +6,4 @@
 
 
 ## Tecnologias que eu uso no meu dia a dia
-[![My techs](https://skillicons.dev/icons?i=dart,flutter)]
+![My techs](https://skillicons.dev/icons?i=dart,flutter)
